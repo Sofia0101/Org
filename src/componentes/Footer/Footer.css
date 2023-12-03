@@ -1,0 +1,36 @@
+.footer{
+    width: 100%;
+    display: flex;
+    padding: 5%;
+    align-items: center;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+   
+
+.redes{
+    left: 8%;
+    position: relative;
+
+}
+    
+
+.redes img{
+    padding: 0px 15px;
+
+}
+
+.linkedin{
+    width: 4%;
+}
+
+
+.logo-img{
+    display: flex;   
+    left: -4%;
+    position: relative;
+}
